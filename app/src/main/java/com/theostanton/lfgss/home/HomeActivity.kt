@@ -1,5 +1,6 @@
 package com.theostanton.lfgss.home
 
+import android.os.Bundle
 import android.view.View
 import com.theostanton.lfgss.listitem.ListItemActivity
 import kotlinx.android.synthetic.main.include_toolbar.*
@@ -10,6 +11,12 @@ import kotlinx.android.synthetic.main.include_toolbar.*
 class HomeActivity : ListItemActivity() {
 
     override val fromBottom = false
+
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+    }
 
     override fun populateToolbar() {
         back_button.visibility = View.GONE

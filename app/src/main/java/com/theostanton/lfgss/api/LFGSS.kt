@@ -16,7 +16,7 @@ import timber.log.Timber
 
 object LFGSS {
 
-    val accToken = "tBKFy4xZI1Ts1ufid80QsaViF4KXz4UkvvVmSkoBjidB6DZ9VgrDmNu33x4XVXOyPouusFdt5x7LS72J1lREhBJSlB8Brbly3339dHdGbf86Kwb2Gb0qPI4DrKMpmEUd"
+    var accToken = ""
 
     fun init(ctx: Context) {
 
