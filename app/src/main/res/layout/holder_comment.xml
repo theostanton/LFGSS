@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/root"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ripple_on_background"
+    android:padding="@dimen/margin">
+
+    <ImageView
+        android:id="@+id/avatar_imageview"
+        android:layout_width="@dimen/avatar"
+        android:layout_height="@dimen/avatar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/fourty"/>
+
+    <TextView
+        android:id="@+id/user_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_toRightOf="@+id/avatar_imageview"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/ago_textView"
+
+        android:paddingBottom="@dimen/padding"
+        android:paddingRight="@dimen/padding"
+        android:paddingLeft="@dimen/margin"
+
+        android:textStyle="bold"
+        android:textColor="@color/text"
+        android:textSize="@dimen/title_text"
+        tools:text="Harryp"/>
+
+    <TextView
+        android:id="@+id/comment_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_toRightOf="@+id/avatar_imageview"
+        android:layout_below="@+id/user_textView"
+
+        android:paddingRight="@dimen/margin"
+        android:paddingLeft="@dimen/margin"
+
+        android:textColorLink="@color/sixty"
+        android:textColor="@color/text"
+        android:textSize="@dimen/title_text"
+        tools:text="Comment commment commment commment commment commment commment commment commment commment commment commment commment commment commment commment commment commment commment"/>
+
+    <TextView
+        android:id="@+id/ago_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/position_textView"
+
+        android:textSize="@dimen/subtitle_text"
+        android:textColor="@color/ago_text"
+        tools:text="9 hours ago"/>
+
+    <TextView
+        android:id="@+id/position_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:paddingLeft="@dimen/padding"
+
+        android:textSize="@dimen/subtitle_text"
+        android:textColor="@color/link_text"
+        tools:text="#1"/>
+
+    <TextView
+        android:id="@+id/reply_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/comment_textView"
+        android:layout_alignParentRight="true"
+
+        android:textColor="@color/link_text"
+        android:textSize="@dimen/subtitle_text"
+        android:text="Reply"/>
+
+</RelativeLayout>

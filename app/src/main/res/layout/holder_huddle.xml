@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/root"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ripple_on_background"
+    android:padding="@dimen/margin">
+
+    <TextView
+        android:id="@+id/title_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/padding"
+        android:paddingRight="@dimen/padding"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/comments_count_textView"
+
+        android:textSize="@dimen/title_text"
+        android:textColor="@color/text"
+        tools:text="Title title title title title title title title title title"/>
+
+    <TextView
+        android:id="@+id/posted_by_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/title_textView"
+        android:paddingRight="@dimen/padding"
+        android:layout_alignParentLeft="true"
+
+        android:textSize="@dimen/subtitle_text"
+        android:textColor="@color/link_text"
+        tools:text=" @harrya"/>
+
+    <TextView
+        android:id="@+id/posted_ago_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/title_textView"
+        android:layout_toRightOf="@+id/posted_by_textView"
+
+        android:textSize="@dimen/subtitle_text"
+        android:textColor="@color/ago_text"
+        tools:text="9 hours ago"/>
+
+    <TextView
+        android:id="@+id/replied_by_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/title_textView"
+        android:layout_toLeftOf="@+id/replied_ago_textView"
+        android:paddingRight="@dimen/padding"
+
+        android:textSize="@dimen/subtitle_text"
+        android:textColor="@color/link_text"
+        tools:text=" @blah"/>
+
+    <TextView
+        android:id="@+id/replied_ago_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/title_textView"
+        android:layout_alignParentRight="true"
+
+        android:textSize="@dimen/subtitle_text"
+        android:textColor="@color/ago_text"
+        tools:text="9 hours ago"/>
+
+    <TextView
+        android:id="@+id/comments_count_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/comments_textView"
+
+        android:textStyle="bold"
+        android:textSize="@dimen/subtitle_text"
+        android:textColor="@color/ago_text"
+        tools:text="12"/>
+
+    <TextView
+        android:id="@+id/comments_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+
+        android:textSize="@dimen/subtitle_text"
+        android:textColor="@color/ago_text"
+        android:text=" comments"/>
+
+</RelativeLayout>

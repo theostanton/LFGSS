@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/toolbar"
+                android:background="@color/colorPrimary">
+
+    <ImageView
+        android:id="@+id/back_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="@dimen/margin"
+        android:background="@drawable/ripple_on_black"
+        android:src="@drawable/ic_back"/>
+
+    <TextView
+        android:id="@+id/title_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_toRightOf="@+id/back_button"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/huddles_button"
+
+        android:paddingLeft="@dimen/margin"
+        android:textSize="16sp"
+        android:textColor="@color/sixty"
+        tools:text="Title"/>
+
+    <ImageView
+        android:id="@+id/huddles_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/margin"
+        android:background="@drawable/ripple_on_black"
+        android:src="@drawable/ic_mail"/>
+
+
+</RelativeLayout>

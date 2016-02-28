@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffe399</color>
+    <color name="text">#000000</color>
+    <color name="background">#eeeeee</color>
+    <color name="fourty">#555555</color>
+    <color name="sixty">#999999</color>
+    <color name="link_text">#0000aa</color>
+    <color name="ago_text">#999999</color>
+</resources>

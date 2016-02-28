@@ -1,0 +1,485 @@
+{
+  "context": "",
+  "status": 200,
+  "data": {
+    "id": 282165,
+    "title": "For sale: stunning pink Jan Janssen Salanches roadbike Columbus Shimano 105 7-speed",
+    "microcosmId": 548,
+    "breadcrumb": [
+      {
+        "rel": "microcosm ancestor",
+        "href": "/api/v1/microcosms/551",
+        "title": "Classifieds",
+        "id": 551,
+        "level": 2
+      },
+      {
+        "rel": "microcosm ancestor",
+        "href": "/api/v1/microcosms/548",
+        "title": "Complete bikes and frame &amp; forks",
+        "id": 548,
+        "level": 3
+      }
+    ],
+    "comments": {
+      "total": 5,
+      "limit": 25,
+      "offset": 0,
+      "maxOffset": 0,
+      "totalPages": 1,
+      "page": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "/api/v1/conversations/282165",
+          "title": "1"
+        }
+      ],
+      "type": "/api/v1/comments",
+      "items": [
+        {
+          "id": 12801044,
+          "itemType": "conversation",
+          "itemId": 282165,
+          "revisions": 1,
+          "markdown": "Very fresh bike with a few minor signs of use. Great pink paintjob en Shiny Chrome. Made of Columbus Cromor tubing. Smooth werking Shimano 105 7-speed index group. Brand new clincher tyres, cables, sprocket, chain, saddle and bar tape. A few very minor chips only.\r\n\r\nSize: seat tube 59cm (C-t)\r\nTop tube: 57 cm (C-C)\r\n\r\nParts: full Shimano 105 7-speed index group\r\n\r\nPanto stem\r\n\r\nLooking for £250,- including postage to the UK and most other countries.\r\n\r\nPhoto's here:  https://flickr.com/photos/43191607@N06/sets/72157664802175175\r\n\r\n",
+          "html": "<p>Very fresh bike with a few minor signs of use. Great pink paintjob en Shiny Chrome. Made of Columbus Cromor tubing. Smooth werking Shimano 105 7-speed index group. Brand new clincher tyres, cables, sprocket, chain, saddle and bar tape. A few very minor chips only.</p>\n\n<p>Size: seat tube 59cm (C-t)<br/>\nTop tube: 57 cm (C-C)</p>\n\n<p>Parts: full Shimano 105 7-speed index group</p>\n\n<p>Panto stem</p>\n\n<p>Looking for £250,- including postage to the UK and most other countries.</p>\n\n<p>Photo&#39;s here:  <a href=\"http://microco.sm/out/HrTah\" rel=\"nofollow\" target=\"_blank\">flickr.com/photos/43191607@N06/s­ets/72157664802175175</a></p>\n",
+          "meta": {
+            "created": "2016-02-17T19:09:55.181143Z",
+            "createdBy": {
+              "id": 58550,
+                "siteId": 234,
+              "userId": 12291,
+              "profileName": "SimplexNL",
+              "visible": true,
+              "avatar": "https://secure.gravatar.com/avatar/9bddbc81372666b3c87c2b743fd38b2d?d=identicon",
+              "meta": {
+                "flags": {},
+                "links": [
+                  {
+                    "rel": "self",
+                    "href": "/api/v1/profiles/58550"
+                  },
+                  {
+                    "rel": "site",
+                    "href": "/api/v1/sites/234"
+                  }
+                ]
+              }
+            },
+            "editedBy": {
+              "id": 58550,
+              "siteId": 234,
+              "userId": 12291,
+              "profileName": "SimplexNL",
+              "visible": true,
+              "avatar": "https://secure.gravatar.com/avatar/9bddbc81372666b3c87c2b743fd38b2d?d=identicon",
+              "meta": {
+                "flags": {},
+                "links": [
+                  {
+                    "rel": "self",
+                    "href": "/api/v1/profiles/58550"
+                  },
+                  {
+                    "rel": "site",
+                    "href": "/api/v1/sites/234"
+                  }
+                ]
+              }
+            },
+            "flags": {
+              "deleted": false,
+              "moderated": false,
+              "visible": true,
+              "unread": true
+            },
+            "links": [
+              {
+                "rel": "self",
+                "href": "/api/v1/comments/12801044"
+              },
+              {
+                "rel": "conversation",
+                "href": "/api/v1/conversations/282165",
+                "title": "For sale: stunning pink Jan Janssen Salanches roadbike Columbus Shimano 105 7-speed"
+              },
+              {
+                "rel": "up",
+                "href": "/api/v1/conversations/282165",
+                "title": "For sale: stunning pink Jan Janssen Salanches roadbike Columbus Shimano 105 7-speed"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12807487,
+          "itemType": "conversation",
+          "itemId": 282165,
+          "revisions": 1,
+          "markdown": "The frame is Salanches Luxe btw... The more upgraded Salanches type.",
+          "html": "<p>The frame is Salanches Luxe btw... The more upgraded Salanches type.</p>\n",
+          "meta": {
+            "created": "2016-02-20T22:09:17.570624Z",
+            "createdBy": {
+              "id": 58550,
+              "siteId": 234,
+              "userId": 12291,
+              "profileName": "SimplexNL",
+              "visible": true,
+              "avatar": "https://secure.gravatar.com/avatar/9bddbc81372666b3c87c2b743fd38b2d?d=identicon",
+              "meta": {
+                "flags": {},
+                "links": [
+                  {
+                    "rel": "self",
+                    "href": "/api/v1/profiles/58550"
+                  },
+                  {
+                    "rel": "site",
+                    "href": "/api/v1/sites/234"
+                  }
+                ]
+              }
+            },
+            "editedBy": {
+              "id": 58550,
+              "siteId": 234,
+              "userId": 12291,
+              "profileName": "SimplexNL",
+              "visible": true,
+              "avatar": "https://secure.gravatar.com/avatar/9bddbc81372666b3c87c2b743fd38b2d?d=identicon",
+              "meta": {
+                "flags": {},
+                "links": [
+                  {
+                    "rel": "self",
+                    "href": "/api/v1/profiles/58550"
+                  },
+                  {
+                    "rel": "site",
+                    "href": "/api/v1/sites/234"
+                  }
+                ]
+              }
+            },
+            "flags": {
+              "deleted": false,
+              "moderated": false,
+              "visible": true,
+              "unread": true
+            },
+            "links": [
+              {
+                "rel": "self",
+                "href": "/api/v1/comments/12807487"
+              },
+              {
+                "rel": "conversation",
+                "href": "/api/v1/conversations/282165",
+                "title": "For sale: stunning pink Jan Janssen Salanches roadbike Columbus Shimano 105 7-speed"
+              },
+              {
+                "rel": "up",
+                "href": "/api/v1/conversations/282165",
+                "title": "For sale: stunning pink Jan Janssen Salanches roadbike Columbus Shimano 105 7-speed"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12807660,
+          "itemType": "conversation",
+          "itemId": 282165,
+          "revisions": 1,
+          "markdown": "nice bike",
+          "html": "<p>nice bike</p>\n",
+          "meta": {
+            "created": "2016-02-21T00:18:06.932176Z",
+            "createdBy": {
+              "id": 100675,
+              "siteId": 234,
+              "userId": 53775,
+              "profileName": "schleazy",
+              "visible": true,
+              "avatar": "/api/v1/files/e580a84ba39d2174bd94efdb2299866e98ba81a4.png",
+              "meta": {
+                "flags": {},
+                "links": [
+                  {
+                    "rel": "self",
+                    "href": "/api/v1/profiles/100675"
+                  },
+                  {
+                    "rel": "site",
+                    "href": "/api/v1/sites/234"
+                  }
+                ]
+              }
+            },
+            "editedBy": {
+              "id": 100675,
+              "siteId": 234,
+              "userId": 53775,
+              "profileName": "schleazy",
+              "visible": true,
+              "avatar": "/api/v1/files/e580a84ba39d2174bd94efdb2299866e98ba81a4.png",
+              "meta": {
+                "flags": {},
+                "links": [
+                  {
+                    "rel": "self",
+                    "href": "/api/v1/profiles/100675"
+                  },
+                  {
+                    "rel": "site",
+                    "href": "/api/v1/sites/234"
+                  }
+                ]
+              }
+            },
+            "flags": {
+              "deleted": false,
+              "moderated": false,
+              "visible": true,
+              "unread": true
+            },
+            "links": [
+              {
+                "rel": "self",
+                "href": "/api/v1/comments/12807660"
+              },
+              {
+                "rel": "conversation",
+                "href": "/api/v1/conversations/282165",
+                "title": "For sale: stunning pink Jan Janssen Salanches roadbike Columbus Shimano 105 7-speed"
+              },
+              {
+                "rel": "up",
+                "href": "/api/v1/conversations/282165",
+                "title": "For sale: stunning pink Jan Janssen Salanches roadbike Columbus Shimano 105 7-speed"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12808865,
+          "itemType": "conversation",
+          "itemId": 282165,
+          "revisions": 1,
+          "inReplyTo": 12807660,
+          "markdown": "Thanks!",
+          "html": "<p>Thanks!</p>\n",
+          "meta": {
+            "created": "2016-02-21T18:30:12.292848Z",
+            "createdBy": {
+              "id": 58550,
+              "siteId": 234,
+              "userId": 12291,
+              "profileName": "SimplexNL",
+              "visible": true,
+              "avatar": "https://secure.gravatar.com/avatar/9bddbc81372666b3c87c2b743fd38b2d?d=identicon",
+              "meta": {
+                "flags": {},
+                "links": [
+                  {
+                    "rel": "self",
+                    "href": "/api/v1/profiles/58550"
+                  },
+                  {
+                    "rel": "site",
+                    "href": "/api/v1/sites/234"
+                  }
+                ]
+              }
+            },
+            "editedBy": {
+              "id": 58550,
+              "siteId": 234,
+              "userId": 12291,
+              "profileName": "SimplexNL",
+              "visible": true,
+              "avatar": "https://secure.gravatar.com/avatar/9bddbc81372666b3c87c2b743fd38b2d?d=identicon",
+              "meta": {
+                "flags": {},
+                "links": [
+                  {
+                    "rel": "self",
+                    "href": "/api/v1/profiles/58550"
+                  },
+                  {
+                    "rel": "site",
+                    "href": "/api/v1/sites/234"
+                  }
+                ]
+              }
+            },
+            "flags": {
+              "deleted": false,
+              "moderated": false,
+              "visible": true,
+              "unread": true
+            },
+            "links": [
+              {
+                "rel": "self",
+                "href": "/api/v1/comments/12808865"
+              },
+              {
+                "rel": "conversation",
+                "href": "/api/v1/conversations/282165",
+                "title": "For sale: stunning pink Jan Janssen Salanches roadbike Columbus Shimano 105 7-speed"
+              },
+              {
+                "rel": "up",
+                "href": "/api/v1/conversations/282165",
+                "title": "For sale: stunning pink Jan Janssen Salanches roadbike Columbus Shimano 105 7-speed"
+              },
+              {
+                "rel": "inReplyTo",
+                "href": "/api/v1/comments/12807660"
+              },
+              {
+                "rel": "inReplyToAuthor",
+                "href": "/api/v1/profiles/100675",
+                "title": "schleazy"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12808936,
+          "itemType": "conversation",
+          "itemId": 282165,
+          "revisions": 1,
+          "markdown": "Lovely looking thing.",
+          "html": "<p>Lovely looking thing.</p>\n",
+          "meta": {
+            "created": "2016-02-21T18:58:21.775342Z",
+            "createdBy": {
+              "id": 87791,
+              "siteId": 234,
+              "userId": 41202,
+              "profileName": "MultiGrooves",
+              "visible": true,
+              "avatar": "/api/v1/files/d8f39c92b7405bf092f9888f1466a6a4978baa6e.gif",
+              "meta": {
+                "flags": {},
+                "links": [
+                  {
+                    "rel": "self",
+                    "href": "/api/v1/profiles/87791"
+                  },
+                  {
+                    "rel": "site",
+                    "href": "/api/v1/sites/234"
+                  }
+                ]
+              }
+            },
+            "editedBy": {
+              "id": 87791,
+              "siteId": 234,
+              "userId": 41202,
+              "profileName": "MultiGrooves",
+              "visible": true,
+              "avatar": "/api/v1/files/d8f39c92b7405bf092f9888f1466a6a4978baa6e.gif",
+              "meta": {
+                "flags": {},
+                "links": [
+                  {
+                    "rel": "self",
+                    "href": "/api/v1/profiles/87791"
+                  },
+                  {
+                    "rel": "site",
+                    "href": "/api/v1/sites/234"
+                  }
+                ]
+              }
+            },
+            "flags": {
+              "deleted": false,
+              "moderated": false,
+              "visible": true,
+              "unread": true
+            },
+            "links": [
+              {
+                "rel": "self",
+                "href": "/api/v1/comments/12808936"
+              },
+              {
+                "rel": "conversation",
+                "href": "/api/v1/conversations/282165",
+                "title": "For sale: stunning pink Jan Janssen Salanches roadbike Columbus Shimano 105 7-speed"
+              },
+              {
+                "rel": "up",
+                "href": "/api/v1/conversations/282165",
+                "title": "For sale: stunning pink Jan Janssen Salanches roadbike Columbus Shimano 105 7-speed"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "meta": {
+      "created": "2016-02-17T19:09:55.050769Z",
+      "createdBy": {
+        "id": 58550,
+        "siteId": 234,
+        "userId": 12291,
+        "profileName": "SimplexNL",
+        "visible": true,
+        "avatar": "https://secure.gravatar.com/avatar/9bddbc81372666b3c87c2b743fd38b2d?d=identicon",
+        "meta": {
+          "flags": {},
+          "links": [
+            {
+              "rel": "self",
+              "href": "/api/v1/profiles/58550"
+            },
+            {
+              "rel": "site",
+              "href": "/api/v1/sites/234"
+            }
+          ]
+        }
+      },
+      "flags": {
+        "sticky": false,
+        "open": true,
+        "deleted": false,
+        "moderated": false,
+        "visible": true
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "/api/v1/conversations/282165"
+        },
+        {
+          "rel": "microcosm",
+          "href": "/api/v1/microcosms/548",
+          "title": "Complete bikes and frame &amp; forks"
+        }
+      ],
+      "permissions": {
+        "create": false,
+        "read": true,
+        "update": false,
+        "delete": false,
+        "closeOwn": false,
+        "openOwn": false,
+        "readOthers": true,
+        "guest": true,
+        "banned": false,
+        "owner": false,
+        "moderator": false,
+        "siteOwner": false
+      }
+    }
+  },
+  "error": null
+}
