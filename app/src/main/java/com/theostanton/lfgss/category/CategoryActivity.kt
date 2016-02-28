@@ -5,7 +5,7 @@ import com.theostanton.lfgss.listitem.ListItemActivity
 /**
  * Created by theostanton on 22/02/16.
  */
-class CatActivity : ListItemActivity() {
+class CategoryActivity : ListItemActivity() {
 
 
     override val fromBottom = false
